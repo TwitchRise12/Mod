@@ -1,0 +1,28 @@
+
+//Items
+item.ruby.name=Ruby
+item.obsidian_ingot.name=Obsidian Ingot
+item.electrine.name=Electrine
+item.pulsating_coal.name= Pulsating Coal
+
+//Tools
+item.sword_electrine.name= Electrine Sword
+item.pickaxe_electrine.name= Electrine Pickaxe
+item.shovel_electrine.name= Electrine Shovel
+item.axe_electrine.name= Electrine Axe
+item.hoe_electrine.name= Electrine Hoe
+
+
+//Armor
+item.leggings_electrine.name= Electrine Leggings
+item.chestplate_electrine.name= Electrine Chestplate
+item.boots_electrine.name= Electrine Boots
+item.helmet_electrine.name= Electrine Helmet
+
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.block_of_electrine.name=Block of Electrine
+
+//Tabs
+itemGroup.rizor_tab=Rizor Tab

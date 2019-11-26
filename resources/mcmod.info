@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rizor",
+  "name": "Rizor",
+  "description": "A Mod that is designed for multiple funky ways.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["papagreat"],
+  "credits": "Me, myself and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
